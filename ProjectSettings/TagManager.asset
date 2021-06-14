@@ -8,6 +8,7 @@ TagManager:
   - btc
   - CompleteEnd
   - Restart
+  - ScoreInLevel
   layers:
   - Default
   - TransparentFX
